@@ -28,4 +28,4 @@
 ### Краткая информация о данных
 ....
 
-[к оглавлению](https://github.com/SqueroDoc/Doc_rep/blob/main/project_0/READDME.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SqueroDoc/Doc_rep/blob/main/project_0/READDME.MD#Оглавление)
