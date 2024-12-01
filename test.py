@@ -1,4 +1,6 @@
 import numpy as np
-from hidden import mystery2
 
-print(mystery2)
+seed = 2021
+
+print(seed)
+
