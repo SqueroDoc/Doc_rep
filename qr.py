@@ -1,7 +1,7 @@
 import qrcode
 
 # Вставь ссылку на GitHub
-url = "https://github.com/username"
+url = "https://github.com/SqueroDoc/Doc_rep"
 
 # Создай QR-код
 img = qrcode.make(url)
